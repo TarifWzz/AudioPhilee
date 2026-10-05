@@ -871,7 +871,7 @@ header .container .purchases i:hover {
         width: 95%;
     }
     .audio_about .container .audio_text h2 {
-        text-align: center;
+        text-align: start;
     }
     .audio_about .container .audio_text p {
         width: 100%;
