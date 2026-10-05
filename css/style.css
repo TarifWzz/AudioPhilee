@@ -1060,3 +1060,9 @@ footer .container .contact ul li i:hover {
     font-size: 22px;
     box-shadow: 0 0 3px #eee;
 }
+@media (max-width:768px) {
+    .btn_whatsApp{
+        bottom:20px;
+        right:20px;
+    }
+}
